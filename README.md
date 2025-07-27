@@ -1,2 +1,1 @@
-# xcompose
-Ergonimic keyboard mappings.
+# Ergonimic keyboard mappings for Linux
