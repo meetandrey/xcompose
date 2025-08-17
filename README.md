@@ -1,4 +1,4 @@
-# Ergonimic keyboard mappings for Linux
+# Ergonimic keyboard mappings
 
 Easily enter any kind of special text, from diacritics to Emoji.
 
