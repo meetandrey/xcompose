@@ -10,9 +10,7 @@ include "%L"
 include "%H/dist/xcompose/Typography"
 ```
 
-## Extensions
-
-### Typography Layout
+## Typography Layout
 
 Created by Ilya Birman for macOS and Windows, now ported to Linux. Please refer to author's project page for more information.
 
